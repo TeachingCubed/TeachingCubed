@@ -1,0 +1,8 @@
+#put below variations
+
+ <div>
+   <label for="text" class="swatch__title" style="color:black;">Text:</label>
+   <input required class="required" id="text" type="text" name="properties[Custom Text]" maxlength="10">
+ </div>
+ <br>
+                   
